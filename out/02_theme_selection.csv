@@ -1,0 +1,6 @@
+theme,n_columns,auc_alone,auc_lost_if_removed,selected
+Behaviour / spending,5,0.828,0.106,True
+Position on ship,3,0.621,0.031,True
+Origin & demographics,4,0.629,0.011,False
+State (CryoSleep),1,0.718,0.003,False
+Social group,2,0.551,-0.002,False

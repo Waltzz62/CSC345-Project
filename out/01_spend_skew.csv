@@ -1,0 +1,6 @@
+service,mean,median,max,pct_zero
+RoomService,224.7,0.0,14327.0,64.2
+FoodCourt,458.1,0.0,29813.0,62.8
+ShoppingMall,173.7,0.0,23492.0,64.3
+Spa,311.1,0.0,22408.0,61.2
+VRDeck,304.9,0.0,24133.0,63.2

@@ -1,0 +1,15 @@
+column,missing,pct
+PassengerId,0,0.00
+HomePlanet,201,2.31
+CryoSleep,217,2.50
+Cabin,199,2.29
+Destination,182,2.09
+Age,179,2.06
+VIP,203,2.34
+RoomService,181,2.08
+FoodCourt,183,2.11
+ShoppingMall,208,2.39
+Spa,183,2.11
+VRDeck,188,2.16
+Name,200,2.30
+Transported,0,0.00
